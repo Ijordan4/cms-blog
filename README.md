@@ -51,11 +51,7 @@ Submit a pull request with a clear description of your changes.
 
 ## Credits
 
-<<<<<<< HEAD
-Sources that could have helped with this project:
-=======
 Sources that helped with this project:
->>>>>>> 1eba9aa1544e7fb6b1a1f7d6ba3a5ec771b59eea
 
 Express.js Documentation: Official documentation for Express.js, the web application framework used in this project.
 
@@ -64,9 +60,3 @@ Sequelize Documentation: Official documentation for Sequelize, the ORM used for 
 Handlebars.js Documentation: Official documentation for Handlebars.js, the templating engine used for views.
 
 dotenv Documentation: Documentation for the dotenv package, used for managing environment variables.
-
-<<<<<<< HEAD
-OpenAI GPT-3.5: OpenAI's GPT-3.5 was used to assist with project-related queries and code samples.
-=======
-
->>>>>>> 1eba9aa1544e7fb6b1a1f7d6ba3a5ec771b59eea
