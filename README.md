@@ -61,4 +61,4 @@ Handlebars.js Documentation: Official documentation for Handlebars.js, the templ
 
 dotenv Documentation: Documentation for the dotenv package, used for managing environment variables.
 
-OpenAI GPT-3.5: OpenAI's GPT-3.5 was used to assist with project-related queries and code samples.
+
