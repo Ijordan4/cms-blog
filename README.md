@@ -51,7 +51,7 @@ Submit a pull request with a clear description of your changes.
 
 ## Credits
 
-Sources that could have helped with this project:
+Sources that helped with this project:
 
 Express.js Documentation: Official documentation for Express.js, the web application framework used in this project.
 
