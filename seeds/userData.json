@@ -1,0 +1,22 @@
+[
+    {
+      "displayName": "Alice",
+      "email": "alice@gmail.com",
+      "password": "alice123"
+    },
+    {
+      "displayName": "Eleanor",
+      "email": "eleanor@yahoo.com",
+      "password": "eleanor5678"
+    },
+    {
+      "displayName": "Charlie",
+      "email": "charlie@hotmail.com",
+      "password": "charlieabc"
+    },
+    {
+      "displayName": "David",
+      "email": "david@gmail.com",
+      "password": "david4321"
+    }
+  ]
